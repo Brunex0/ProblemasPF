@@ -1,4 +1,5 @@
 # ProblemasPF
 Problema A, B e C Ocaml
 
-Problema A
+|Problemas | Tema  |Feito|
+|Problema A| A resposta é 42|Yes|
